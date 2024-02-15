@@ -72,21 +72,14 @@ export default function Index() {
           </div>
         </div>
           
-        <div className="mx-auto max-w-7xl py-2 px-4 sm:px-6 lg:px-8">
+        <div className="mx-auto max-w-7xl py-2 px-4 sm:px-8 lg:px-10">
           <div className="mt-6 flex flex-wrap justify-center gap-8">
             {[
-
-
-
-      
-       
-             {
-  src: "/Slice-Softball-Team.png",
-  alt: "Slice Softball Team",
-  href: "http://www.fgclsoftball.com/",
-  width: 200, // example width in pixels
-  height: 150, // example height in pixels
-}
+                       {
+            src: "/Slice-Softball-Team.png",
+            alt: "Slice Softball Team",
+            href: "http://www.fgclsoftball.com/",
+          },
 
        {/*
               {
