@@ -77,8 +77,8 @@ export default function Index() {
             {[
        
               {
-                src: "/Slice-200.png",
-                alt: "Slice Softball",
+                src: "/Slice-Softball-Team.png",
+                alt: "Slice Softball Team",
                 href: "http://www.fgclsoftball.com/",
               },
        {/*
