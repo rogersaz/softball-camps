@@ -30,7 +30,7 @@ export default function Index() {
               </h1>
       
               <p className="mx-auto mt-6 max-w-lg text-center text-xl text-white sm:max-w-3xl">
-                Welcome to the 2024 Bradenton Slice, @a1softball
+                I'll be playing for the 2024 Bradenton Slice, @a1softball
                  from @LATechSB coming to the @FGCLsoftball
                  this summer season for the Slice & Dice Machine! 
               </p>
