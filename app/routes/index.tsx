@@ -59,13 +59,6 @@ export default function Index() {
                   </div>
                 )}
               </div>
-
-              {
-            src: "/Slice-Softball-Team.png",
-            alt: "Slice Softball Team",
-            href: "http://www.fgclsoftball.com/",
-          },
-
               
               <a href="https://remix.run">
                 <img
@@ -76,11 +69,7 @@ export default function Index() {
               </a>
             </div>
 
-                {
-            src: "/Slice-Softball-Team.png",
-            alt: "Slice Softball Team",
-            href: "http://www.fgclsoftball.com/",
-          },
+                
 
 
             
@@ -91,16 +80,20 @@ export default function Index() {
           <div className="mt-6 flex flex-wrap justify-center gap-8">
             {[
 
-
+          {
+            src: "/Slice-Softball-Team.png",
+            alt: "Slice Softball Team",
+            href: "http://www.fgclsoftball.com/",
+          },
       
 
-       {/*
+      
               {
-                src: "https://user-images.githubusercontent.com/8431042/158711352-746c52cf-433e-4823-987a-c9d6f4349ce7.svg",
+                src: "/Slice-Softball-Team.png",
                 alt: "Supabase",
                 href: "https://supabase.com",
               },
-       {/*
+        {/*
               {
                 src: "https://user-images.githubusercontent.com/1500684/157764276-a516a239-e377-4a20-b44a-0ac7b65c8c14.svg",
                 alt: "Tailwind",
