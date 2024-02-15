@@ -17,8 +17,12 @@ import tailwindStylesheetUrl from "./styles/tailwind.css";
 import { getUser } from "./session.server";
 
 export const meta: MetaFunction = () => {
-  return { title: "New Remix App" };
+  return { 
+    title: "A1 Softball Camps", 
+    description: "Elevate your softball game with A1 Softball Camps. Top coaching, personalized training, and a community to grow with. Join us now"
+  };
 };
+
 
 export const links: LinksFunction = () => {
   return [{ rel: "stylesheet", href: tailwindStylesheetUrl }];
