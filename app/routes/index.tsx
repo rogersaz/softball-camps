@@ -21,10 +21,10 @@ export default function Index() {
                 <span className="block uppercase text-violet-500 drop-shadow-md">
                   - a1 -
                 </span>
-                 <span className="block uppercase text-violet-500 drop-shadow-md">
+                 <span className="block uppercase text-violet-250 drop-shadow-md">
                    LOUISIANA TECH
                 </span>
-                 <span className="block uppercase text-violet-500 drop-shadow-md">
+                 <span className="block uppercase text-violet-250 drop-shadow-md">
                    OF - L/L
                 </span>
               </h1>
