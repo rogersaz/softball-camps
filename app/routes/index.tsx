@@ -76,15 +76,6 @@ export default function Index() {
           <div className="mt-6 flex flex-wrap justify-center gap-8">
             {[
 
-<a
-  key={img.href}
-  href={img.href}
-  className="flex h-16 w-32 justify-center p-1 grayscale transition hover:grayscale-0 focus:grayscale-0"
->
-  <img alt={img.alt} src={img.src} width={img.width} height={img.height} />
-</a>
-
-
 
 
       
@@ -93,8 +84,8 @@ export default function Index() {
   src: "/Slice-Softball-Team.png",
   alt: "Slice Softball Team",
   href: "http://www.fgclsoftball.com/",
-  width: 200, // example width in pixels
-  height: 150, // example height in pixels
+  width: 200px, // example width in pixels
+  height: 150px, // example height in pixels
 }
 
        {/*
