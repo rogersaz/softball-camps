@@ -74,9 +74,9 @@ export default function Index() {
             {[
        {/*
               {
-                src: "https://user-images.githubusercontent.com/8431042/161311102-fad29f2b-ffd4-4a24-aa4e-92f3fda526a7.svg",
-                alt: "Netlify",
-                href: "https://netlify.com",
+                src: "/Slice-200.png",
+                alt: "Slice Softball",
+                href: "http://www.fgclsoftball.com/",
               },
        {/*
               {
