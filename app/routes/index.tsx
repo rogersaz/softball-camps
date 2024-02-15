@@ -84,8 +84,8 @@ export default function Index() {
   src: "/Slice-Softball-Team.png",
   alt: "Slice Softball Team",
   href: "http://www.fgclsoftball.com/",
-  width: 200px, // example width in pixels
-  height: 150px, // example height in pixels
+  width: 200, // example width in pixels
+  height: 150, // example height in pixels
 }
 
        {/*
