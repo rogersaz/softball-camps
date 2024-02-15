@@ -19,7 +19,10 @@ export default function Index() {
             <div className="lg:pb-18 relative px-4 pt-16 pb-8 sm:px-6 sm:pt-24 sm:pb-14 lg:px-8 lg:pt-32">
               <h1 className="text-center text-6xl font-extrabold tracking-tight sm:text-8xl lg:text-9xl">
                 <span className="block uppercase text-violet-500 drop-shadow-md">
-                  A1 - LOUISIANA TECH
+                  alannah a1 rogers
+                </span>
+                 <span className="block uppercase text-violet-500 drop-shadow-md">
+                   LOUISIANA TECH
                 </span>
                  <span className="block uppercase text-violet-500 drop-shadow-md">
                    Outfield- 2nd Year - L/L
@@ -72,7 +75,7 @@ export default function Index() {
         <div className="mx-auto max-w-7xl py-2 px-4 sm:px-6 lg:px-8">
           <div className="mt-6 flex flex-wrap justify-center gap-8">
             {[
-       {/*
+       
               {
                 src: "/Slice-200.png",
                 alt: "Slice Softball",
