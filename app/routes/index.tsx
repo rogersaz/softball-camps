@@ -59,7 +59,14 @@ export default function Index() {
                   </div>
                 )}
               </div>
-                
+
+              {
+            src: "/Slice-Softball-Team.png",
+            alt: "Slice Softball Team",
+            href: "http://www.fgclsoftball.com/",
+          },
+
+              
               <a href="https://remix.run">
                 <img
                   src="https://user-images.githubusercontent.com/1500684/158298926-e45dafff-3544-4b69-96d6-d3bcc33fc76a.svg"
@@ -69,17 +76,23 @@ export default function Index() {
               </a>
             </div>
 
+                {
+            src: "/Slice-Softball-Team.png",
+            alt: "Slice Softball Team",
+            href: "http://www.fgclsoftball.com/",
+          },
+
+
+            
           </div>
         </div>
           
         <div className="mx-auto max-w-7xl py-2 px-4 sm:px-8 lg:px-10">
           <div className="mt-6 flex flex-wrap justify-center gap-8">
             {[
-                       {
-            src: "/Slice-Softball-Team.png",
-            alt: "Slice Softball Team",
-            href: "http://www.fgclsoftball.com/",
-          },
+
+
+      
 
        {/*
               {
