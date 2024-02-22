@@ -57,6 +57,13 @@ export default function Index() {
                     >
                       Log In
                     </Link>
+                    </Link>
+                    <Link
+                      to="/about"
+                      className="flex items-center justify-center rounded-md bg-violet-500 px-4 py-3 font-medium text-white hover:bg-violet-600  "
+                    >
+                      About
+                    </Link>
                   </div>
                 )}
               </div>
